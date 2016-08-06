@@ -8,6 +8,9 @@
 /[Bb]uilds/
 UnityGenerated/
 Assets/AssetStoreTools*
+Runtime/obj/
+Editor/obj/
+Runtime-Editor/obj/
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
@@ -50,3 +53,5 @@ keystore.creds.txt
 bttlobbytest_Data/
 *.pdb
 *.dmp
+*.dll
+*.cache
